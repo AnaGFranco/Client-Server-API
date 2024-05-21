@@ -13,8 +13,8 @@
 
 1. Clone o repositório:
    ```sh
-   git clone <git@github.com:AnaGFranco/Client-Server-API.git>
-   cd <Client-Server-API>
+   git clone git@github.com:AnaGFranco/Client-Server-API.git
+   cd Client-Server-API
    ```
 
 2. Inicialize o banco de dados:
