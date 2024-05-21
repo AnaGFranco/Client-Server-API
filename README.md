@@ -35,6 +35,3 @@
    go run main.go
    ```
     - O cliente fará uma requisição ao servidor para obter a cotação do dólar e salvará o valor no arquivo `cotacao.txt`.
-
-
-# Client-Server-API
